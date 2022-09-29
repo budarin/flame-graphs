@@ -2,6 +2,14 @@
 
 Flame graph samples
 
+underPressurePlugin params:
+```
+{
+    maxEventLoopDelay: 1000,
+    maxEventLoopUtilization: 0.95,
+}
+```
+
 web app
 ```
 100 connections
